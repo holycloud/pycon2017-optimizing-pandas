@@ -3,3 +3,4 @@
 Materials for the PyCon talk by Sofia Heisler
 
 在 win10 的 pycharm64 中调试做了如下修订。
+在 52 的演示。
